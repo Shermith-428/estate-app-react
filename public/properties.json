@@ -1,0 +1,172 @@
+{
+    "properties": [
+        {
+            "id": "prop1",
+            "type": "House",
+            "bedrooms": 3,
+            "price": 750000,
+            "tenure": "Freehold",
+            "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland...",
+            "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+            "picture": "images/prop1pic1small.jpg",
+            "images": [
+                "images/prop1pic1.jpg",
+                "images/prop1pic2.jpg",
+                "images/prop1pic3.jpg",
+                "images/prop1pic4.jpg",
+                "images/prop1pic5.jpg",
+                "images/prop1pic6.jpg"
+            ],
+            "url": "properties/prop1.html",
+            "added": {
+                "month": "October",
+                "day": 12,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop2",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 399995,
+            "tenure": "Freehold",
+            "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors...",
+            "location": "Crofton Road Orpington BR6",
+            "picture": "images/prop2pic1small.jpg",
+            "images": [
+                "images/prop2pic1.jpg",
+                "images/prop2pic2.jpg",
+                "images/prop2pic3.jpg",
+                "images/prop2pic4.jpg",
+                "images/prop2pic5.jpg",
+                "images/prop2pic6.jpg"
+            ],
+            "url": "properties/prop2.html",
+            "added": {
+                "month": "September",
+                "day": 14,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop3",
+            "type": "House",
+            "bedrooms": 4,
+            "price": 950000,
+            "tenure": "Freehold",
+            "description": "A stunning four-bedroom detached property featuring a large open-plan kitchen, separate dining room, and a spacious rear garden. Located in a quiet cul-de-sac with excellent access to local amenities.",
+            "location": "High Street, Bromley BR1",
+            "picture": "images/prop3pic1small.jpg",
+            "images": [
+                "images/prop3pic1.jpg",
+                "images/prop3pic2.jpg",
+                "images/prop3pic3.jpg",
+                "images/prop3pic4.jpg",
+                "images/prop3pic5.jpg",
+                "images/prop3pic6.jpg"
+            ],
+            "url": "properties/prop3.html",
+            "added": {
+                "month": "January",
+                "day": 5,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop4",
+            "type": "Flat",
+            "bedrooms": 1,
+            "price": 250000,
+            "tenure": "Leasehold",
+            "description": "Modern one-bedroom apartment in the heart of London. Features a private balcony, 24-hour concierge service, and high-spec internal finishes throughout. Ideal for first-time buyers or investors.",
+            "location": "Baker Street, Marylebone NW1",
+            "picture": "images/prop4pic1small.jpg",
+            "images": [
+                "images/prop4pic1.jpg",
+                "images/prop4pic2.jpg",
+                "images/prop4pic3.jpg",
+                "images/prop4pic4.jpg",
+                "images/prop4pic5.jpg",
+                "images/prop4pic6.jpg"
+            ],
+            "url": "properties/prop4.html",
+            "added": {
+                "month": "November",
+                "day": 20,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop5",
+            "type": "House",
+            "bedrooms": 5,
+            "price": 1200000,
+            "tenure": "Freehold",
+            "description": "Luxury five-bedroom executive home boasting a double garage, three en-suites, and an expansive kitchen/family room. Situated within the catchment area for highly regarded local secondary schools.",
+            "location": "Sevenoaks Road, Orpington BR6",
+            "picture": "images/prop5pic1small.jpg",
+            "images": [
+                "images/prop5pic1.jpg",
+                "images/prop5pic2.jpg",
+                "images/prop5pic3.jpg",
+                "images/prop5pic4.jpg",
+                "images/prop5pic5.jpg",
+                "images/prop5pic6.jpg"
+            ],
+            "url": "properties/prop5.html",
+            "added": {
+                "month": "December",
+                "day": 1,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop6",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 475000,
+            "tenure": "Leasehold",
+            "description": "Contemporary two-bedroom flat located on the top floor of this newly built development. Includes secure underground parking, a communal roof terrace, and floor-to-ceiling windows with city views.",
+            "location": "Camden High Street, Camden NW1",
+            "picture": "images/prop6pic1small.jpg",
+            "images": [
+                "images/prop6pic1.jpg",
+                "images/prop6pic2.jpg",
+                "images/prop6pic3.jpg",
+                "images/prop6pic4.jpg",
+                "images/prop6pic5.jpg",
+                "images/prop6pic6.jpg"
+            ],
+            "url": "properties/prop6.html",
+            "added": {
+                "month": "March",
+                "day": 10,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop7",
+            "type": "House",
+            "bedrooms": 2,
+            "price": 550000,
+            "tenure": "Freehold",
+            "description": "Charming two-bedroom Victorian cottage full of character. Features include original fireplaces, a cellar for storage, and a south-facing garden. Close to main transport links to the City.",
+            "location": "London Road, Bromley BR1",
+            "picture": "images/prop7pic1small.jpg",
+            "images": [
+                "images/propip7c1.jpg",
+                "images/prop7pic2.jpg",
+                "images/prop7pic3.jpg",
+                "images/prop7pic4.jpg",
+                "images/prop7pic5.jpg",
+                "images/prop7pic6.jpg"
+            ],
+            "url": "properties/prop7.html",
+            "added": {
+                "month": "February",
+                "day": 15,
+                "year": 2023
+            }
+        }
+    ]
+}
