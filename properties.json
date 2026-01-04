@@ -6,7 +6,7 @@
             "bedrooms": 3,
             "price": 750000,
             "tenure": "Freehold",
-            "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland...",
+            "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland.",
             "location": "Petts Wood Road, Petts Wood, Orpington BR5",
             "picture": "images/prop1pic1small.jpg",
             "images": [
@@ -30,7 +30,7 @@
             "bedrooms": 2,
             "price": 399995,
             "tenure": "Freehold",
-            "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors...",
+            "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors.",
             "location": "Crofton Road Orpington BR6",
             "picture": "images/prop2pic1small.jpg",
             "images": [
@@ -154,7 +154,7 @@
             "location": "London Road, Bromley BR1",
             "picture": "images/prop7pic1small.jpg",
             "images": [
-                "images/propip7c1.jpg",
+                "images/prop7pic1.jpg",
                 "images/prop7pic2.jpg",
                 "images/prop7pic3.jpg",
                 "images/prop7pic4.jpg",
