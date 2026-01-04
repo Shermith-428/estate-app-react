@@ -39,7 +39,7 @@ const PropertyPage = ({ properties }) => {
       <div className="gallery-section">
         {/* Main Feature Image */}
         <div className="main-image">
-          <img src={`/${mainImage}`} alt="Property" />
+          <img src={mainImage} alt="Property" />
         </div>
 
         {/* Phase 4 Requirement: Thumbnail Gallery for toggling images */}
@@ -47,7 +47,7 @@ const PropertyPage = ({ properties }) => {
           {property.images.map((img, index) => (
             <img 
               key={index} 
-              src={`/${img}`} 
+              src={img} 
               className={mainImage === img ? 'active-thumb' : ''} 
               onClick={() => setMainImage(img)}
               alt={`Thumbnail ${index + 1}`}

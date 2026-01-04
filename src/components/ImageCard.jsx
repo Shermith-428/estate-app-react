@@ -14,7 +14,7 @@ const ImageCard = ({ property, onAddToFav, onRemoveFav, isFav }) => {
       <Link to={`/property/${id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
         <div className="image-container" style={{ height: '200px', overflow: 'hidden', borderRadius: '8px' }}>
           <img 
-            src={`/${picture}`} 
+            src={picture}
             alt={type} 
             style={{ width: '100%', height: '100%', objectFit: 'cover' }} // Corrects alignment
           />
