@@ -2,11 +2,7 @@ import { render, screen, fireEvent, cleanup } from '@testing-library/react';
 import { vi, expect, test, beforeEach } from 'vitest';
 import App from './App';
 
-/**
- * PHASE 5: TESTING (12% MARKS)
- * I am mocking the global fetch because Vitest runs in Node.js 
- * and cannot access '/properties.json' directly via URL.
- */
+
 const mockProperties = {
   properties: [
     {
